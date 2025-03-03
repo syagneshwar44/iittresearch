@@ -1,0 +1,19 @@
+import React from "react";
+
+const Calendar = () => {
+  return (
+    <>
+      <div className="flex justify-center items-center min-h-screen p-4">
+        <iframe
+          src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FKolkata&amp;src=Y185NGJsdHVzaG9sY25pbG9xa21kOGlxYm1jb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23039BE5&amp;showTitle=0&amp;showNav=1&amp;showDate=1&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=1&amp;title=Risha%20Activities"
+          style={{ border: 0 }}
+          width="1850"
+          height="800"
+          allowFullScreen
+        ></iframe>
+      </div>
+    </>
+  );
+};
+
+export default Calendar;
