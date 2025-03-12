@@ -15,27 +15,25 @@ export default function Join() {
         transition={{ duration: 1 }}
       >
         <hr />
-        <div className="pub-page-main">
+        <div className="pub-page-mainj">
           <div>
             <Row>
-            <Col md={9} className={styles.rightSection}>
+            <Col md={3} className={styles.rightSection}>
 
               <div className="reflection-container">
   
               <GlareCard className="flex flex-col items-center justify-center">
         <img
-          className="h-full w-full absolute inset-0 object-cover"
+          className="h-full w-full absolute inset-auto object-cover"
           src="logoRecruit.png"
         />
       </GlareCard>
-      <p className="mt-4">
+      <p>
       We, at the RISHA Lab aspire to work to the best of our abilities and currently have multiple open positions for broadly in the areas of Software Engineering, Educational Technologies and Human-Computer Interaction! Have a look at RISHA Lab Open House video (2020) and Core Principles to understand who we are, what we do, what you can do! Checkout our publications and research agenda to get an idea of some of our work!
       {/* <a href="https://docs.google.com/spreadsheets/d/1K8raZO0wWKfOOHuKxoNxvQwgZABIPoXCMe6hN-Z0Zus/edit?usp=sharing" referrerPolicy="no-referrer" target="_blank">Here</a> are some broad project ideas and you can propose your own!!!  */}
       </p>
       <p>Developer Intern positions are available only for IITT students who have stellar programming skills!</p>
-      {/* <form className="cf">
-      <input type="button" className="button-check" defaultValue="Open Positions" onClick={(e)=>{e.preventDefault(); window.location.href='/open';}}/>
-      </form> */}
+    
   
    </div>
    </Col>
@@ -43,44 +41,51 @@ export default function Join() {
         {/* https://theconfuzedsourcecode.wordpress.com/2019/11/11/you-may-restfully-submit-to-your-google-forms/ */}
       {/* <form className="kwes-form cf" action="https://kwes.io/api/foreign/forms/0ctNQPXDL2AlBzCTLXHU"> */}
       <div style={{textAlign:"left"}}>
-        <Row style={{fontWeight:"bold"}}>
-          <Col className={"border py-2"}>Why RISHA Lab?</Col>
-          <Col className={"border py-2"}>What are we looking for?</Col>
-        </Row>
-        <Row >
-        <Col className={"border py-2"}>
-        <ul style={{listStyle:"inside"}}>
-        <li>Better job/research prospects by building a strong work profile! </li>
-        <li>20+ publications in top-class conferences/journals such as ICSE, FSE, MSR, EASE, CSCW, CSUR and so on (last 2 years)</li>
-        <li>20+ development projects/tools - Most of our projects result in tools/software </li>
-        <li>The lab is in news for its work on using computing for society (The Hindu, NDTV, IndianExpress, Times of India, The Hans India, ETV, DD, The Hans,  and so on)</li>
-        <li>International Research Collaborations (University of Waterloo)</li>
-        <li>Industry Collaborations (Bosch, Accenture Labs…)</li>
-        <li>We also have mini-projects in Educational Technologies and Human-Computer Interaction for around 4-6 months.</li>
-        </ul>
-        </Col>
-        <Col className={"border py-2"}>
-        We are always looking for enthusiastic students for Developer Interns (3 to 6 months), Research Interns (6 to 12 months), UG Research Interns (2 years - main goal is to nurture for higher studies) in addition to B.Tech projects, M.Tech projects, MS/PhD (checkout official IITT admissions channel). 
-        <p>What you must have?</p>
-        <ul style={{listStyle:"inside"}}>
-        <li>Coding & Development </li>
-        <li>Critical Thinking</li>
-        <li>Quick learner</li>
-        <li>Reading & Writing Papers (scientific) </li>
-        <li>Formalisms (scientific perspective)</li>
-        </ul>
-        <p>
-        <b>Note1:</b> Most of our research projects have a major software development component, application of AI/ML, NLP techniques, and any other advances required for accomplishing project goals.
-        </p>
-        <p>
-        <b>Note2:</b> If you are not willing to do your best, move beyond your comfort zone, and are not persistent to do your best work, please do not contact us! 
-        </p>
-
-
-        </Col>
-        </Row>
-        <Row className={"py-2"}>If interested, please fill this form! 
-      </Row>
+      <div style={{ textAlign: "left" }}>
+  <table style={{ width: "100%", borderCollapse: "collapse" }}>
+    <thead>
+      <tr>
+        <th style={{ border: "2px solid black", padding: "10px", fontWeight: "bold" }}>Why RISHA Lab?</th>
+        <th style={{ border: "2px solid black", padding: "10px", fontWeight: "bold" }}>What are we looking for?</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td style={{ border: "2px solid black", padding: "10px" }}>
+          <ul style={{ listStyle: "inside" }}>
+            <li>Better job/research prospects by building a strong work profile! </li>
+            <li>20+ publications in top-class conferences/journals such as ICSE, FSE, MSR, EASE, CSCW, CSUR, and so on (last 2 years)</li>
+            <li>20+ development projects/tools - Most of our projects result in tools/software </li>
+            <li>The lab is in news for its work on using computing for society (The Hindu, NDTV, IndianExpress, Times of India, The Hans India, ETV, DD, The Hans, and so on)</li>
+            <li>International Research Collaborations (University of Waterloo)</li>
+            <li>Industry Collaborations (Bosch, Accenture Labs…)</li>
+            <li>We also have mini-projects in Educational Technologies and Human-Computer Interaction for around 4-6 months.</li>
+          </ul>
+        </td>
+        <td style={{ border: "2px solid black", padding: "10px" }}>
+          We are always looking for enthusiastic students for Developer Interns (3 to 6 months), Research Interns (6 to 12 months), UG Research Interns (2 years - main goal is to nurture for higher studies) in addition to B.Tech projects, M.Tech projects, MS/PhD (check out official IITT admissions channel).
+          <p>What you must have?</p>
+          <ul style={{ listStyle: "inside" }}>
+            <li>Coding & Development </li>
+            <li>Critical Thinking</li>
+            <li>Quick learner</li>
+            <li>Reading & Writing Papers (scientific) </li>
+            <li>Formalisms (scientific perspective)</li>
+          </ul>
+          <p>
+            <b>Note1:</b> Most of our research projects have a major software development component, application of AI/ML, NLP techniques, and any other advances required for accomplishing project goals.
+          </p>
+          <p>
+            <b>Note2:</b> If you are not willing to do your best, move beyond your comfort zone, and are not persistent to do your best work, please do not contact us! 
+          </p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+<div>
+  If interested, please fill this form!
+</div>
       </div>
       <form className="cf" method={"POST"} action="https://docs.google.com/forms/d/1NFyVrt7ZnGoD0oYEb8TRB2RKmwNuc0-o6iRgsXvwG-0/formResponse" >
       <div className="half left cf">
