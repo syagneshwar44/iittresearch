@@ -16,10 +16,10 @@ The members of RISHA Lab are like a growing family who are there to help you and
 #### - Dheeraj
 
 
-  <img src="https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/dheeraj.jpg"/>
+ ![RISHA Lab Dinner](src="https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/dheeraj.jpg")
 
 
-  > [RISHA Lab Dinner]
+
 
 "I worked together with Dheeraj on many course projects, hackathons, and various other competitions. He always told me about the projects he was working on at RISHA Lab and publishing them at top conferences. Moreover, I also liked how Sridhar sir always pushed us to go above and beyond the regular courses. So, I joined the RISHA Lab in my fourth year to work on my BTP along with Dheeraj.
 
@@ -29,11 +29,11 @@ It also took some effort, in the beginning, to transition to Work from Home, but
 
 #### - Karthik
 
-<div>
-  <img src="https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/dheeraj1.jpg">
-</div>
 
-  > [Us working on our ASE Submission]
+  ![Us working on our ASE Submission](src="https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/dheeraj1.jpg")
+
+
+  
 
 "Our work was most affected when I was unable to work for most of the second half due to a medical emergency. However, I am grateful to Karthik for undertaking the complete burden all upon himself amidst all the uncertainty. We wouldn't have been able to pull through without his efforts. I am also thankful to Sridhar sir for how he dealt with the situation, which allowed me to have a stress-free recovery. Academically, we took a hit due to this unfortunate event; however, Sridhar sir pushed us to pursue this even after formally completing the BTP. We persevered day and night and finally made a publication out of our work at one of the top Software engineering conferences. I remember staying awake for the conference notification, which came around 4:50 AM, and I immediately texted sir and woke up Karthik. Through this, I experienced firsthand how working with a great and supportive team; one can tackle even the most unexpected plot twists."
 

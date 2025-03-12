@@ -1,56 +1,40 @@
 ---
-title: 'Learning to Cope with the Unexpected'
+title: 'Learning to cope with the Unexpected'
 category: 'B.Tech 2021'
 subtitle: 'Dheeraj, Karthik'
 image: 'https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/dheeraj.jpg'
 ---
 
-## Learning to Cope with the Unexpected
+## Learning to cope with the Unexpected
 
-### A Journey of Growth and Resilience
+"I first started working with Sridhar sir towards the end of my second year. At that time, Sridhar sir was teaching our batch, and he gave us a glimpse of the fantastic work being done by students around the world. His motivation to make IIT Tirupati recognized as one of the top institutes for software engineering research on par with the likes of MIT and Stanford got me fired up. In addition, the effort and the variety of research problems undertaken by the lab got me motivated. Before starting my work, I mentioned that I was inspired but knew nothing about software engineering or research. Despite this, he was very welcoming and told me that everyone had to start somewhere. Hence with no knowledge of research, I started my journey with Sridhar sir and the group, which eventually got named RISHA Lab. Only a handful of undergraduate students were there initially, but undergraduate research slowly started picking up momentum in the institute, leading to more students being part of the RISHA family.
 
-"I first started working with Sridhar sir towards the end of my second year. At that time, he was teaching our batch and introduced us to the remarkable work being done by students worldwide. His vision to establish IIT Tirupati as a leading institute in software engineering research, on par with MIT and Stanford, deeply inspired me. The sheer diversity of research topics and the impact of the work at RISHA Lab motivated me to take the plunge. 
+Over the duration of my term, I got the opportunity to work on numerous development-heavy projects from diverse areas outside of my coursework, including Game Development, Software Architecture, Visualization Tools and Deep Learning. I started with development work and eventually transitioned into core research, securing few publications in esteemed conferences and the team. With the help of Sridhar sir, I secured a research internship at University of Waterloo in my third year, during which I was also offered a fully funded Masters position at the University.
 
-Despite having no prior knowledge of software engineering or research, Sridhar sir was very welcoming and assured me that everyone starts somewhere. With that encouragement, I embarked on my research journey with the group that would soon become RISHA Lab. Initially, only a handful of undergraduate students were involved, but as the lab's reputation grew, more students joined, transforming RISHA into a thriving research community."
-
-### Expanding Horizons
-
-"During my time at RISHA Lab, I had the opportunity to work on diverse projects beyond my coursework, including game development, software architecture, visualization tools, and deep learning. I started with development-heavy tasks and eventually transitioned into core research, securing multiple publications in esteemed conferences. Thanks to Sridhar sir’s mentorship, I also earned a research internship at the University of Waterloo in my third year and was later offered a fully funded Master’s position there.
-
-The members of RISHA Lab are more than colleagues; they are like a growing family. We pushed each other to go beyond our limits. I fondly remember the countless all-nighters we pulled to meet deadlines, the hours spent brainstorming solutions, and even the occasional treat from Sridhar sir after an intense day of work. Reflecting on my undergraduate experience, I can confidently say that RISHA Lab played a pivotal role in shaping my academic and professional journey."
+The members of RISHA Lab are like a growing family who are there to help you and push you past your limits. When I look back now, I can remember the countless full-nighters we pulled together to meet deadlines and the numerous times I had to stay back in the temporary campus working together with the team. I also remember the time Sridhar sir treated us to dinner and ice-cream after a long day. I can confidently say that my time at RISHA Lab enhanced my overall undergraduate experience at IIT Tirupati and boosted my career." 
 
 #### - Dheeraj
 
-### A Collaborative Experience
+![RISHA Lab Dinner](https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/dheeraj.jpg)
 
-<div>
-  <img src="https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/dheeraj.jpg"/>
-</div>
+---
 
-> *RISHA Lab Dinner*
+"I worked together with Dheeraj on many course projects, hackathons, and various other competitions. He always told me about the projects he was working on at RISHA Lab and publishing them at top conferences. Moreover, I also liked how Sridhar sir always pushed us to go above and beyond the regular courses. So, I joined the RISHA Lab in my fourth year to work on my BTP along with Dheeraj.
 
-"I worked with Dheeraj on several course projects, hackathons, and competitions. He frequently shared insights about the projects he was working on at RISHA Lab and the exciting research being published in top conferences. I admired how Sridhar sir encouraged students to push beyond regular coursework, so I decided to join RISHA Lab in my fourth year to work on my BTP alongside Dheeraj.
+We started great on our BTP, but some of our ideas/experiments were not successful, and we had faced rejection from a conference. We then explored many different directions and read numerous research papers actively. It was a rigorous process but also a fascinating one! Every week we used to have a meeting where we spit out different ideas and evaluate the pros and cons. Thinking out of the box is one of the great things I have experienced working with Dheeraj and Sridhar sir.
 
-We started strong, but some of our experiments didn’t yield the expected results, and we even faced a rejection from a conference. Rather than being discouraged, we explored alternative directions and actively engaged in extensive literature review. The process was rigorous but also incredibly rewarding. Our weekly meetings were dynamic, filled with brainstorming sessions where we evaluated different ideas critically. One of the most valuable aspects of working at RISHA Lab was learning to think outside the box."
-
-"Adapting to remote work during the pandemic was initially challenging, but weekly online meetings kept us on track. We quickly learned the importance of perseverance, as we had to pivot our approach multiple times based on our findings. Eventually, we discovered a novel research direction that shaped not only our BTP but also contributed to ongoing research at RISHA Lab."
+It also took some effort, in the beginning, to transition to Work from Home, but through weekly online meets, we managed to make it work and get back on track. Gradually, we learned to persevere whenever we had to change our plans quite a few times based on the results. We eventually came up with a probable solution to our problem and stuck with it, which led to a new research direction for our BTP and also for research in RISHA Lab."
 
 #### - Karthik
 
-### Overcoming Challenges Together
+![Us working on our ASE Submission](https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/dheeraj1.jpg)
 
-<div>
-  <img src="https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/dheeraj1.jpg">
-</div>
+---
 
-> *Us working on our ASE Submission*
-
-"Our research faced an unexpected hurdle when I had to take a prolonged break due to a medical emergency. Karthik stepped up and took on the entire workload, ensuring our project stayed on track despite the uncertainty. His dedication was instrumental in keeping our work alive. I am also deeply grateful to Sridhar sir for his unwavering support and understanding, allowing me to focus on my recovery without additional stress.
-
-Although we faced setbacks, Sridhar sir encouraged us to persist even after formally completing our BTP. With determination and relentless effort, we refined our research and ultimately secured a publication in one of the top software engineering conferences. I vividly remember staying awake until 4:50 AM, anxiously waiting for the conference notification. The moment it arrived, I immediately messaged sir and woke up Karthik. That night reaffirmed how a great team can tackle even the most unexpected challenges."
+"Our work was most affected when I was unable to work for most of the second half due to a medical emergency. However, I am grateful to Karthik for undertaking the complete burden all upon himself amidst all the uncertainty. We wouldn't have been able to pull through without his efforts. I am also thankful to Sridhar sir for how he dealt with the situation, which allowed me to have a stress-free recovery. Academically, we took a hit due to this unfortunate event; however, Sridhar sir pushed us to pursue this even after formally completing the BTP. We persevered day and night and finally made a publication out of our work at one of the top Software engineering conferences. I remember staying awake for the conference notification, which came around 4:50 AM, and I immediately texted sir and woke up Karthik. Through this, I experienced firsthand how working with a great and supportive team; one can tackle even the most unexpected plot twists."
 
 #### - Dheeraj
 
-### The RISHA Lab Experience: Win or Learn
+---
 
-Our journey at RISHA Lab taught us that research doesn’t always yield immediate success—but when it doesn’t, it teaches us valuable lessons that guide us toward the right path. In research, it’s either *win* or *learn*. For students passionate about pushing their boundaries and exploring cutting-edge research, RISHA Lab is an incredible opportunity that we strongly recommend.
+##### From our experience at RISHA Lab, we have learned that research may not always be successful; when it is not, it shows us what does not work, guiding us in the right direction. So it's either WIN or LEARN. We strongly encourage passionate students to explore the excellent work and opportunities provided by RISHA Lab.

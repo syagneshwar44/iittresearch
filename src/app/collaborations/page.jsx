@@ -177,7 +177,7 @@ export default function Collaborators() {
     <>
       <motion.div
         className="container"
-        style={{ textAlign: "left", paddingLeft: "350px"}}
+        style={{ textAlign: "left", paddingLeft: "50px"}}
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.1 }}

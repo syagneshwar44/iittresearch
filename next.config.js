@@ -12,7 +12,8 @@ const nextConfig = {
     domains: [
       "raw.githubusercontent.com",
       'drive.google.com', 
-      'firebasestorage.googleapis.com'
+      'firebasestorage.googleapis.com',
+      "2020.msrconf.org"
     ],
     remotePatterns: [
       {

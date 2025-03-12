@@ -33,7 +33,15 @@ export default function NavBar() {
           />
         </Link>
       </div>
-      <ul className={`nav-links ${isMenuOpen ? 'active' : ''}`}>  {/* Add active class when menu is open */}
+      <div style={{
+      display: "flex",
+      justifyContent: "flex-start", // Aligns contents to the left
+      alignItems: "center",
+      paddingTop:"22px",
+      width: "80%", // Adjust width as needed
+      maxWidth: "1200px", // Prevents excessive width on large screens
+    }}>
+      <ul className={`nav-links ${isMenuOpen ? 'active' : ''}`}> 
         <li><Link href="/">Home</Link></li>
         <li><Link href="/publication">Publication</Link></li>
         <li><Link href="/people">People</Link></li>
@@ -41,8 +49,12 @@ export default function NavBar() {
         <li><Link href="/slambook">SlamBook</Link></li>
         <li><Link href="/blog">Blog</Link></li>
         <li><Link href="/join">Join Us</Link></li>
-        <li><Link href="/calendar">Calendar</Link></li>
+        {/* <li><Link href="/calendar">Calendar</Link></li>
+        <li><Link href="/gallery">Gallery</Link></li>
+        <li><Link href="/news">News</Link></li>
+        <li><Link href="/talks">Talks</Link></li> */}
       </ul>
+      </div>
       <div className="toggle-container">
         <button 
           onClick={toggleDarkMode} 

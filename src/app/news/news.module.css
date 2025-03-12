@@ -1,0 +1,17 @@
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .timeline-item {
+    margin: 20px 0;
+  }
+  
+  .timeline-opposite-content {
+    padding-right: 20px;
+  }
+  
+  .timeline-content {
+    padding-left: 20px;
+  }
+  

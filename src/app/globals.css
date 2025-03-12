@@ -21,6 +21,7 @@
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
 
 } */
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -39,6 +40,8 @@ body {
   background-color: #fff;
   transition: background-color 0.3s ease;
   position: relative;
+  width: 100%;
+  z-index: 1000;
 }
 
 .navbar.dark {
@@ -344,7 +347,7 @@ li p.member-designation {
   color: #555;
 }
 
-
+/* join section */
 .col-md-3 {
   max-width: 25% !important;
 }
@@ -353,10 +356,342 @@ li p.member-designation {
   max-width: 75% !important;
 }
 
+.pub-page-mainj {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+}
 
 .reflection-container {
-  width: 100% !important;
-  background-color: red !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+}
+
+.reflection-container img {
+  width: auto; /* Adjust image size */
+  height: auto;
+  border-radius: 10px;
+}
+
+.reflection-container p {
+  font-size: 16px;
+  text-align: justify;
+  margin-top: 10px;
+}
+
+.right-section {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.right-section table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.right-section th,
+.right-section td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: left;
+}
+
+.right-section th {
+  font-weight: bold;
+}
+
+.right-section ul {
+  padding-left: 20px;
+}
+
+.right-section ul li {
+  margin-bottom: 5px;
+}
+
+/* Responsive Layout */
+@media (max-width: 768px) {
+  .pub-page-mainj {
+    flex-direction: column;
+  }
+
+  .reflection-container {
+    width: 100%;
+  }
+
+  .right-section {
+    width: 100%;
+  }
+}
+
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.left-col {
+  flex: 0 0 25%; /* 3/12 of the grid */
+  max-width: 25%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.right-col {
+  flex: 0 0 75%; /* 9/12 of the grid */
+  max-width: 75%;
+}
+
+.border {
+  /* border: 1px solid #ddd; */
+  padding: 10px;
+}
+
+.cf {
+  max-width: 600px;
+  text-align: center;
+  margin: 20px auto;
+  color:rgba(226, 15, 15, 0.959);
+}
+.cf input, .cf textarea {
+  border: 0;
+  outline: 0;
+  padding: 1em;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  display: block;
+  width: 100%;
+  margin-top: 1em;
+  font-family: 'Merriweather', sans-serif;
+  -moz-box-shadow: 0 1px 1px rgba(241, 14, 14, 0.986);
+  -webkit-box-shadow: 0 1px 1px rgb(250, 15, 15);
+  box-shadow: 0 1px 1px rgba(240, 5, 5, 0.952);
+  resize: none;
+}
+
+.cf input:focus, .cf textarea:focus {
+  -moz-box-shadow: 0 0px 2px #f12710 !important;
+  -webkit-box-shadow: 0 0px 2px #f3250e !important;
+  box-shadow: 0 0px 2px #e01a04 !important;
+}
+
+.cf textarea {
+  height: 12.5em;
+}
+
+.half {
+  float: left;
+  width: 48%;
+  margin-bottom: 1em;
+}
+
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* General Container */
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* Section Header */
+.text-2xl {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.text-xl {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+.font-bold {
+  font-weight: bold;
+}
+
+.font-semibold {
+  font-weight: 600;
+}
+
+/* Spacing & Margins */
+.p-4 {
+  padding: 1rem;
+}
+
+.my-2 {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
+/* Horizontal Rule */
+hr {
+  border: 0;
+  height: 1px;
+  background: #ccc;
+  margin: 1rem 0;
+}
+
+/* Year Buttons */
+.text-blue-500 {
+  color: #2563eb; /* Blue */
+  font-weight: bold;
+}
+
+.text-blue-500:hover {
+  text-decoration: underline;
+  color: #1e40af; /* Darker Blue */
+}
+
+/* Search Bar */
+.search-bar {
+  width: 100%;
+  padding: 10px;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  background-color: var(--color-card);
+  margin-bottom: 30px;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+.search-bar:focus {
+  border-color: #2563eb; /* Blue focus */
+}
+
+/* Category Filter */
+.category-filter {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 1rem;
+}
+
+/* Scroll-to-Year Buttons */
+.year-button {
+  background: transparent;
+  border: none;
+  color: #2563eb;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+.year-button:hover {
+  text-decoration: underline;
+  color: #1e40af;
+}
+
+/* Motion Animations */
+.motion-fade {
+  opacity: 0;
+  animation: fadeIn 0.5s forwards;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.kotha{
+  font-family: "Yeseva One", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+/* Carousel Styles */
+.carousel .slide img {
+  border-radius: 12px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+  object-fit: cover;
+  max-height: 60vh;
+  width: auto;
+  margin: 0 auto;
+}
+
+/* Carousel Dots */
+.carousel .control-dots {
+  bottom: 15px;
+}
+
+.carousel .control-dots .dot {
+  background: rgba(255, 255, 255, 0.6);
+  width: 12px;
+  height: 12px;
+  margin: 0 5px;
+  border-radius: 50%;
+  transition: all 0.3s ease-in-out;
+}
+
+.carousel .control-dots .dot.selected {
+  background: #007bff;
+  transform: scale(1.2);
+}
+
+/* Carousel Arrows */
+.carousel .control-prev,
+.carousel .control-next {
+  opacity: 0.8;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.carousel .control-prev:hover,
+.carousel .control-next:hover {
+  opacity: 1;
+}
+
+/* Caption Styling */
+.carousel .legend {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+/* Mobile Responsiveness */
+@media (max-width: 768px) {
+  .carousel .slide img {
+    max-height: 40vh;
+  }
+
+  .carousel .legend {
+    font-size: 12px;
+  }
+
+  .carousel .control-dots .dot {
+    width: 10px;
+    height: 10px;
+  }
+}
+.imgcp{
+  background-color: white;
+  border-radius: 10px;
 }
 
 :root {
@@ -486,3 +821,49 @@ li p.member-designation {
   }
 }
 
+@keyframes shine {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.animate-shine {
+  animation: shine 3s linear infinite;
+  background-size: 200% auto;
+}
+
+/* Add these styles for sticky navbar */
+.navbar.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.nav-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.sticky-nav {
+  padding: 0.5rem 1rem;
+}
+
+/* Dark mode styles */
+.dark .navbar {
+  background: #1a1a1a;
+}
+
+.dark .navbar.sticky {
+  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+}

@@ -84,7 +84,7 @@ const GalleryPage = () => {
             <img
               src={item.url}
               alt={item.caption}
-              className="w-full h-64 object-cover transition-transform duration-300 transform hover:scale-105"
+              className="w-full h-full object-cover transition-transform duration-300 transform hover:scale-105"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-black via-black/50 to-transparent p-4">
               <h3 className="text-white text-xl font-semibold">{item.caption}</h3>
@@ -107,21 +107,21 @@ const GalleryPage = () => {
             <motion.img
               src={selectedImage}
               alt="Zoomed Image"
-              className="max-w-3xl max-h-3xl object-contain rounded-lg transition-all duration-500 ease-in-out"
+              className="max-w-5xl max-h-3xl object-contain rounded-lg transition-all duration-500 ease-in-out"
               initial={{ scale: 0 }}
               animate={{ scale: 1 }}
               transition={{ duration: 0.01, ease: "easeOut" }}
             />
             
             {/* Caption */}
-            <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 text-white text-xl font-semibold">
+            <div className="absolute bottom-4 left-1/2 transform -translate-x-1/2 text-black text-xl font-semibold imgcp">
               {mediaItems.find((item) => item.url === selectedImage)?.caption}
             </div>
 
             {/* Close Button */}
             <button
               onClick={() => setIsZoomed(false)} // Close zoom on button click
-              className="absolute top-4 right-4 bg-red-600 text-white p-2 rounded-full"
+              className="absolute top-4 right-4 bg-gray-600 text-white p-2 rounded-full"
             >
               X
             </button>

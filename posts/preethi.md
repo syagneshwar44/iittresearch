@@ -1,32 +1,54 @@
 ---
-title: 'My Journey into Software Engineering: From Projects to Papers'
-category: 'B.Tech 2024'
-subtitle: 'Preethi'
-image: 'https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/preethi.jpg'
+title: "My Journey into Software Engineering: From Projects to Papers"
+category: "B.Tech 2024"
+subtitle: "Hemasri Sai Lella"
+image: "https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/preethi.jpg"
 ---
 
-## My Journey into Software Engineering: From Projects to Papers
+# **My Journey into Software Engineering: From Projects to Papers**
 
 ![My Time with RISHA Lab](https://raw.githubusercontent.com/NobleMathews/risha-main/master/src/Pages/_images/preethi.jpg)
 
-It all started when I enrolled in a software engineering course during my 5th semester. Little did I know that this course would shape my academic career. During that semester, I worked on a couple of projects that were deeply tied to real-world applications. These projects weren’t just assignments—they were hands-on experiences, and the guidance I received from Akhila Sri Manasa ma’am and Sridhar Sir was invaluable. Their mentorship played a huge role in my personal and professional growth. Since then, I had always wanted to work with Risha Lab. Unfortunately, due to the hectic schedule of my semester, I couldn’t pursue this interest at the time. But life had other plans. 
+## **A Turning Point in My Academic Path**
 
-In the very next semester, I took up a Software Engineering Lab course that involved working on two major projects. The projects were designed around sustainability, which fascinated me.  In the Software Engineering Lab course, my team brainstormed and came up with an idea—measuring the energy consumption of Python code snippets. It seemed like a simple enough concept, but after discussions with Sridhar Sir and Rajrupa Ma'am, we came to something bigger: measuring the energy consumption of database systems. Who would have guessed that this project would become the foundation of my work for the next 1 year?
+It all started when I enrolled in a **Software Engineering** course during my **5th semester**. Little did I know that this course would shape my academic and professional journey in ways I hadn’t imagined. 
 
-As we progressed through the semester, we were asked to choose our B.Tech project guide, and without hesitation, my thoughts returned to Risha Lab. My teammate and I approached Sridhar Sir, and we decided to extend the work we had done in the Software Engineering Lab into a full-fledged project.
+During that semester, I worked on projects that were deeply tied to real-world applications. These weren’t just coursework assignments—they were hands-on experiences that opened my eyes to the practical side of software engineering. The mentorship I received from **Akhila Sri Manasa Ma’am** and **Sridhar Sir** was invaluable, playing a crucial role in my growth. Since then, I had always wanted to be a part of **RISHA Lab**. However, due to my hectic semester schedule, I couldn’t pursue this interest at the time. But fate had other plans.
 
-In the first phase, we enhanced our tool and tried to submit the paper to the ICSE 2024 conference, but unfortunately, it didn’t make the cut. This was a tough moment for us. After all the effort, it felt disheartening. But Sir never let us give up—he continued to encourage and guide us through this setback.
+## **Diving Deeper: The Software Engineering Lab**
 
-In the second phase, we concentrated on improving our tool and conducting more comprehensive experiments. This time, our target was the EASE conference. We refined our work, conducted experiments, and finally submitted the paper. One of the most memorable moments during this submission process was staying up until 2 AM—something totally out of the norm for me, as I usually fall asleep by 10 PM!
+In the very next semester, I took up the **Software Engineering Lab** course, which involved working on two major projects focused on **sustainability**—a topic that immediately fascinated me. My team brainstormed and came up with an idea: **measuring the energy consumption of Python code snippets**. Initially, it seemed like a simple concept, but after discussions with **Sridhar Sir** and **Rajrupa Ma’am**, we expanded it into something much bigger—**measuring the energy consumption of database systems**. 
 
-The submission felt like a huge milestone in itself. After sending in the paper, we continued exploring new areas in software engineering where energy-efficient solutions could be applied. A few weeks later, we received a shepherding request from the EASE committee, asking for revisions to our paper. We worked vigorously to improve it, and then came the day that changed everything.
+Who would have thought that this project would become the foundation of my research for the next **year**?
 
-I remember it vividly. I had to travel back to campus that morning, and I woke up early only to check my email and find the news I had been waiting for: our paper was accepted!!! I was overjoyed and ran to wake up my mother to share the news. She was equally excited for me.
+## **Joining RISHA Lab and Taking on a B.Tech Project**
 
-Later, while I was on the train, I received a call from Sridhar Sir, who was attending the ICSE conference in Portugal at the time. He congratulated me, and said that it was because of my persistence and hard work. I was very happy that I did not give up. I still remember my co-passenger asking me why I was so elated.
+As the semester progressed, we were asked to **choose a B.Tech project guide**, and without hesitation, my thoughts returned to **RISHA Lab**. My teammate and I approached **Sridhar Sir**, and we decided to extend our previous work into a **full-fledged research project**.
 
-It wasn’t always smooth sailing—some weeks saw no progress, while others were full of ideas on how to proceed with a problem. But through it all, Sir’s patience and encouragement never wavered, and for that, I’m forever grateful.
+### **Phase 1: The ICSE 2024 Submission**
 
-To anyone who dreams of working with Risha Lab, if you’re truly passionate about what you do, it’s an amazing opportunity. Working in this lab has helped me grow in so many ways. It groomed me for the real world, especially in terms of discipline and collaboration. The weekly status review (WSR)  meetings we had were structured like real-world job environments, giving us an early taste of professional life.
+Our first major milestone was enhancing our tool and submitting a research paper to **ICSE 2024**. However, despite our hard work, the paper **wasn’t accepted**. It was a tough moment, and I felt disheartened. But **Sridhar Sir** never let us give up—he encouraged us to keep improving and refining our work.
 
-So, if you have the chance to be part of Risha Lab, take it!! The journey may be challenging at times, but it’s incredibly rewarding and will push you to grow both as a researcher and a person.
+### **Phase 2: A New Goal – The EASE Conference**
+
+We went back to the drawing board, focusing on **improving our tool** and conducting more comprehensive experiments. This time, our target was the **EASE conference**. We refined our work, conducted rigorous experiments, and finally submitted the paper. One of the most memorable moments during this submission process was staying up until **2 AM**—something totally out of the norm for me, as I usually fall asleep by **10 PM**!
+
+## **A Dream Come True: Paper Acceptance!**
+
+A few weeks after submission, we received a **shepherding request** from the **EASE committee**, asking for revisions to our paper. We worked tirelessly to improve it, and then came the day that changed everything.
+
+I remember it vividly. I had to travel back to campus that morning. As soon as I woke up, I checked my email and saw the notification: **our paper was accepted!** I was overjoyed and ran to wake up my mother to share the news. She was equally excited for me. 
+
+Later that day, while on the train, I received a **call from Sridhar Sir**, who was attending the **ICSE conference in Portugal**. He congratulated me and told me that it was my **persistence and hard work** that made this achievement possible. I was thrilled that I had never given up, and I still remember my co-passenger asking me why I was so excited!
+
+## **Lessons Learned and Advice for Future Students**
+
+The journey wasn’t always smooth—some weeks saw **no progress**, while others were filled with **breakthroughs and new ideas**. However, **Sridhar Sir’s patience and encouragement never wavered**, and for that, I am forever grateful.
+
+To anyone who dreams of working with **RISHA Lab**: if you are truly passionate about research, it is an **incredible opportunity**. My experience in the lab helped me grow both as a researcher and as an individual. 
+
+One of the most valuable aspects of the lab was the **Weekly Status Review (WSR) meetings**. These sessions were structured like real-world work environments, giving us an early taste of professional life. The discipline, collaboration, and problem-solving skills I developed during my time in **RISHA Lab** have prepared me for any challenge that comes my way.
+
+## **Final Thoughts**
+
+If you ever get the chance to **be a part of RISHA Lab**, **take it!** The journey may be challenging at times, but it will push you to **grow, learn, and achieve things you never thought possible**. I will always cherish my time in **RISHA Lab**, and I hope my story inspires future students to embark on their own exciting research journey.

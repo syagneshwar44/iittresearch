@@ -53,17 +53,18 @@ export default function Lab() {
           </div>
         ))}
       </div>
-
+        <br />
       <hr />
       <h2 className="blog-post-title">Alumni</h2>
+      <hr />
       <ul>
         {Object.entries(_.groupBy(alumini, 'value'))
           .sort((a, b) => a[0].localeCompare(b[0]))
           .map(([key, values]) => (
             <div key={key}>
-              <h6 style={{ textAlign: "left", fontWeight: "bold" }}>{value[key]}s</h6>
+              <h6 style={{ textAlign: "left", fontWeight: "bold" , fontSize: "1.4rem" }}>{value[key]}s</h6>
               {_.sortBy(values, (m) => -parseInt(m.email.match(/\d+/) || 0)).map((member, i) => (
-                <li key={i}>
+                <li key={i} style={{listStyleType: "disc" }}>
                   <Link href={`/info/${member.key}`}>{member.title}</Link>
                   <p className="inline-text">{` (${value[member.value].split(" ")[0]} 20${member.email.match(/\d+/)} ${member.desc})`}</p>
                   <p className="member-designation">{member.designation}</p>

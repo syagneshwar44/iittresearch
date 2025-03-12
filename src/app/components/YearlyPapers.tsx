@@ -43,7 +43,7 @@ const YearlyPapers: React.FC<Props> = ({ year, docs, style }) => {
       {filteredDocs?.map((doc) => (
         <MotionDiv
           key={doc.id}
-          className="flex flex-col md:flex-row p-4 rounded-lg shadow-md hover:shadow-lg transition-all border border-gray-200 bg-white"
+          className="flex flex-col md:flex-row p-4 rounded-lg shadow-md hover:shadow-lg transition-all border border-gray-200"
           variants={fadeInVariant}
           initial="hidden"
           animate="visible"
@@ -63,7 +63,7 @@ const YearlyPapers: React.FC<Props> = ({ year, docs, style }) => {
 
           {/* Details Section */}
           <div className="w-full md:w-3/4 flex flex-col justify-center ml-4">
-            <div className="text-gray-500 text-sm">
+            <div className="text-darkgray-500 text-sm">
               {doc.authors
                 .split(",")
                 .map((key, i, arr) => {

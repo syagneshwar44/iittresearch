@@ -26,11 +26,10 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body  className="bg-gray-100 dark:bg-gray-800 py-6"
-      >
+      <body className="bg-gray-100 dark:bg-gray-800 py-6">
         <NavBar />
         <main>
-        {children}
+          {children}
         </main>
         <Footer />
       </body>
